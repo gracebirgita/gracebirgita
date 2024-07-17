@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, python, html, css, php
 
 <br/>
 
