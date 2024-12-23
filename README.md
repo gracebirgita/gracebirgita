@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Grace Birgitta H.</h1>
+<h1 align="center">Hi, I'm Grace Birgitta H. 👋</h1>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY0ajY5cGt0aGNqeDF5YTJoY3MwNGo5aWRwejNkaXBmdm9laWx2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ihZH2vOfn02gs9i1U9/giphy.gif">
 <br/>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 🌱 I’m currently learning C, python, backend(html,css,php,js)
+- 🌱 I’m currently learning C, python, backend(html,css,php,js), java
 
 <br/>
 
