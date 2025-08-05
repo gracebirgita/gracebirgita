@@ -40,12 +40,10 @@
 <br></br>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=gracebirgita&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracebirgita&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
 </div>
-<br></br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracebirgita&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
