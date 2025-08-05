@@ -23,7 +23,7 @@
 - 🌱 I’m focused on intelligence system - python
   - machine learning(numpy, pandas, matplotlib, scikit-learn,etc)
   - NLP(modelling, nltk, scipy)
-  - computer vision(opencv)
+  - computer vision
 
 <br/>
 
