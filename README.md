@@ -16,7 +16,6 @@
 
 <img align="right" alt="coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY0ajY5cGt0aGNqeDF5YTJoY3MwNGo5aWRwejNkaXBmdm9laWx2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ihZH2vOfn02gs9i1U9/giphy.gif">
 <br/>
-
 <h4>Computer Science student focusing on programming: data analysis, machine learning, artificial intelligence.</h4>
 
 - 🔭 I’m currently pursuing my degree in computer science
@@ -24,7 +23,6 @@
   - machine learning(numpy, pandas, matplotlib, scikit-learn,etc)
   - Natural Language Processing(modelling, nltk, scipy)
   - deep learning
-
 <br/>
 
 
@@ -42,7 +40,7 @@
 ## GitHub Stats:
 <div align="left" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=gracebirgita&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracebirgita&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracebirgita&theme=nightowl&hide_border=false" alt="GitHub Streak"/> -->
 </div>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracebirgita&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
