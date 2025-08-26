@@ -12,7 +12,7 @@
 [![](https://visitcount.itsvg.in/api?id=gracebirgita&icon=0&color=12)](https://visitcount.itsvg.in)
 -->
 
-<h3 align="left">Hi, I'm Grace Birgitta H. 👋</h3>
+<h3 align="left">Hi, I'm Grace Birgitta H. </h3>
 
 <img align="right" alt="coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY0ajY5cGt0aGNqeDF5YTJoY3MwNGo5aWRwejNkaXBmdm9laWx2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ihZH2vOfn02gs9i1U9/giphy.gif">
 <br/>
