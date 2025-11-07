@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently pursuing my degree in computer science
 - 🌱 I’m focused on intelligence system - python
-  - machine learning(numpy, pandas, matplotlib, scikit-learn,etc)
+  - Machine learning(NumPy, Pandas, Matplotlib, Scikit-learn,etc)
   - Natural Language Processing(modelling, nltk, scipy)
-  - deep learning
+  - Deep learning (OpenCV, Tensorflow)
 <br/>
 
 
