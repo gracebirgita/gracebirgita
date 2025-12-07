@@ -13,7 +13,7 @@
 -->
 
 <!-- <h3 align="left">Hi, I'm Grace Birgitta H. </h3> -->
-### Hi, I'm Grace Birgitta H.
+# Hi, I'm Grace Birgitta H.
 
 <img align="right" alt="coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY0ajY5cGt0aGNqeDF5YTJoY3MwNGo5aWRwejNkaXBmdm9laWx2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ihZH2vOfn02gs9i1U9/giphy.gif">
 <br/>
