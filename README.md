@@ -40,7 +40,7 @@
 <br></br>
 
 ## GitHub Stats
-![](https://streak-stats.demolab.com/?user=gracebirgita&theme=shades-of-purple&hide_border=true)<br/>
+<!-- ![](https://streak-stats.demolab.com/?user=gracebirgita&theme=shades-of-purple&hide_border=true)<br/> -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gracebirgita&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
